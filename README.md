@@ -6,12 +6,14 @@ Translation metalanguage of source document properties has been developed in the
 
 * TML-SDProperty-v1-EN (xlsx)
     * Typology: Property values (options/examples) are extracted from House (1977, 1997, as cited in House, 2014), ISO  (2012), Newmark (1988), Nord (2005), Reiss (1971/2000), Reiss and Vermeer (1991/2013), and Snell-Hornby (1995).
+* TML-SDProperty-v1-JA (xlsx)
+    * Typology: Japanese translation of TML-SDProperty-v1-EN. Property values are not included.
 
 ## Author
 
-TML-SDProperty-v1-EN was developed by Rei Miyata and Takuya Miyauchi. The details of its development are described in Miyata and Miyauchi (2022) and Miyata (2022).
+TML-SDProperty-v1-EN/JA was developed by Rei Miyata and Takuya Miyauchi. The details of its development are described in Miyata and Miyauchi (2022) and Miyata (2022).
 
-The Excel file for download was created by Rei Miyata.
+The Excel files for download were created by Rei Miyata.
 
 ## Acknowledgements
 
